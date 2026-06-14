@@ -100,8 +100,8 @@
       "name": "影视｜🅱‍哔哩NEW影视🅱‍",
       "type": 3,
       "api": "csp_WexNewBiLiYSGuard",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
       "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt",
@@ -166,9 +166,10 @@
       "name": "影视｜🅱‍哔哔┃影视🅱‍",
       "type": 3,
       "api": "csp_WexbiliysGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6"
+      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6",
+      "quickSearch": 0
     },
     {
       "key": "WexikanbotGuard",
@@ -417,8 +418,8 @@
       "name": "影视｜🅱哔哔┃合集🅱",
       "type": 3,
       "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "style": {
         "type": "rect",
@@ -780,7 +781,7 @@
       "name": "影视｜哔哩｜视频",
       "type": 3,
       "api": "csp_BiliYS",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
@@ -1482,8 +1483,8 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": {
         "vodPic": "https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png",
@@ -1529,7 +1530,7 @@
       "name": "网盘｜盘它｜4K",
       "type": 3,
       "api": "csp_PanWebSharePT",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "style": {
@@ -1543,8 +1544,8 @@
       "name": "网盘｜夸克｜4K",
       "type": 3,
       "api": "csp_PanWebShareKK",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "changeable": 1,
       "ext": {
@@ -1560,31 +1561,35 @@
       "name": "体育｜💡瓜子｜影视",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea"
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "看球",
       "name": "体育｜🌐88┃体育🌐",
       "type": 3,
       "api": "csp_KanqiuGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "list"
       },
-      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6"
+      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6",
+      "quickSearch": 0
     },
     {
       "key": "瓜子看球",
       "name": "体育｜🌐瓜子┃体育🌐",
       "type": 3,
       "api": "csp_WexGZsportGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "list"
       },
-      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6"
+      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6",
+      "quickSearch": 0
     },
     {
       "key": "919体育",
@@ -1594,7 +1599,9 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea"
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "球通体育",
@@ -1604,7 +1611,9 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "瓜子体育",
@@ -1614,7 +1623,9 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "咖啡体育",
@@ -1624,7 +1635,9 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "919体育",
@@ -1634,16 +1647,19 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "WexLunhuiDJ",
       "name": "音乐｜🎼轮回┃舞曲🎼",
       "type": 3,
       "api": "csp_WexLunhuiDJGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
-      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6"
+      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6",
+      "quickSearch": 0
     },
     {
       "key": "呦呦DJ",
@@ -1653,7 +1669,9 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea"
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "轮回DJ",
@@ -1663,21 +1681,27 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "爱听音乐",
       "name": "音乐｜爱听｜音乐",
       "type": 3,
       "api": "https://ym.wya6.cn/xsa/py/爱听音乐.py",
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "爱听音乐",
       "name": "音乐｜爱听｜音乐",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/py/爱听音乐.py",
-      "jar": "http://45678888.xyz/05281606.jar"
+      "jar": "http://45678888.xyz/05281606.jar",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "csp_Music",
@@ -1700,8 +1724,8 @@
       "name": "直播｜🐯虎牙采集",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "categories": [
         "内地剧",
         "动作片",
@@ -1733,18 +1757,20 @@
       "name": "直播｜🐯‍虎牙┃直播🐯‍",
       "type": 3,
       "api": "csp_WexNewHuYaGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6"
+      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6",
+      "quickSearch": 0
     },
     {
       "key": "WexNewDouYu",
       "name": "直播｜🐳斗鱼┃直播🐳",
       "type": 3,
       "api": "csp_WexNewDouYuGuard",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6"
+      "jar": "https://nos.netease.com/ysf/49db9f394f13188bcd226d3d38d12554.txt;md5;b5f1c02f9fc551d4962b89464bebc1f6",
+      "quickSearch": 0
     },
     {
       "key": "Douyu",
@@ -1783,28 +1809,36 @@
       "name": "直播｜网络｜直播",
       "type": 3,
       "api": "https://ym.wya6.cn/xsa/py/网络直播.py",
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "哔哩直播",
       "name": "直播｜哔哩｜直播",
       "type": 3,
       "api": "https://ym.wya6.cn/xsa/py/哔哩直播.py",
-      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd"
+      "jar": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "网络直播",
       "name": "直播｜网络｜直播",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/webcast/py/WLZB.py",
-      "jar": "http://45678888.xyz/05281606.jar"
+      "jar": "http://45678888.xyz/05281606.jar",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "哔哩直播",
       "name": "直播｜哔哩｜直播",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/webcast/py/BLZB.py",
-      "jar": "http://45678888.xyz/05281606.jar"
+      "jar": "http://45678888.xyz/05281606.jar",
+      "searchable": 0,
+      "quickSearch": 0
     }
   ],
   "parses": [
