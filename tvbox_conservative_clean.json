@@ -489,14 +489,6 @@
         "ratio": 1.433
       }
     },
-
-
-  "parses": [
-    {
-      "name": "点此解析",
-      "type": 2,
-      "url": "Parallel"
-    },
     {
       "name": "无名",
       "type": 1,
