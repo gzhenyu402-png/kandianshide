@@ -1843,13 +1843,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://9xi4o.tk/TVB/jar/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"
-    },
-    {
-      "key": "爱听音乐",
-      "name": "爱听｜音乐",
-      "type": 3,
-      "api": "./api/爱听音乐.py",
-      "jar": "https://qianxbox.oss-cn-beijing.aliyuncs.com/line_box/qianx.jar"
     }
   ],
   "parses": [
