@@ -32,43 +32,6 @@
       "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
     },
     {
-      "key": "Wexconfig",
-      "name": "提示｜🐮配置┃中心🐮",
-      "type": 3,
-      "api": "csp_WexConfigGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "AList",
-      "name": "提示｜👁️Alist┃DIY👁️",
-      "type": 3,
-      "api": "csp_AListGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "webdav",
-      "name": "提示｜👁️WebDav┃DIY👁️",
-      "type": 3,
-      "api": "csp_WebDAVGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "push_agent",
-      "name": "提示｜推送",
-      "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
       "key": "U酷资源",
       "name": "影视｜U酷资源(优)",
       "type": 1,
@@ -229,14 +192,6 @@
       "quickSearch": 0
     },
     {
-      "key": "WexikanbotGuard",
-      "name": "影视｜🎇爱看┃采集🎇",
-      "type": 3,
-      "api": "csp_WexikanbotGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "1905",
       "name": "影视｜💡1905｜影视",
       "type": 3,
@@ -245,14 +200,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea"
-    },
-    {
-      "key": "Wexhanxiaoquan",
-      "name": "影视｜💥韩剧┃秒播💥",
-      "type": 3,
-      "api": "csp_WexhanxiaoquanGuard",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "独播库",
@@ -1354,15 +1301,6 @@
       "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
     },
     {
-      "key": "WexGuaZi",
-      "name": "影视｜💥瓜子┃秒播💥",
-      "type": 3,
-      "api": "csp_WexGuaZiGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
       "key": "WexWenCai",
       "name": "影视｜💥文才┃秒播💥",
       "type": 3,
@@ -1417,15 +1355,6 @@
       "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
     },
     {
-      "key": "WexBtTwo",
-      "name": "影视｜🎇鼻涕┃秒播🎇",
-      "type": 3,
-      "api": "csp_WexBtTwoGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
       "key": "新6V",
       "name": "影视｜🎇新6V┃磁力🎇",
       "type": 3,
@@ -1439,34 +1368,6 @@
       "name": "影视｜🎇爱看┃采集🎇",
       "type": 3,
       "api": "csp_WexIkanBotGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "BookShiJie",
-      "name": "影视｜🎃‍极品┃听书🎃",
-      "type": 3,
-      "api": "csp_BookShiJieGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "BookYueTing",
-      "name": "影视｜🎃‍悦庭┃听书🎃",
-      "type": 3,
-      "api": "csp_BookYueTingGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 120,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "Book23TingShu",
-      "name": "影视｜🎃‍爱上┃听书🎃",
-      "type": 3,
-      "api": "csp_Book23TingShuGuard",
       "searchable": 1,
       "changeable": 1,
       "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
@@ -1511,19 +1412,6 @@
       "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
     },
     {
-      "key": "WexTangDou",
-      "name": "影视｜💃跳舞┃教学💃",
-      "type": 3,
-      "api": "csp_WexTangDouGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      },
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
       "key": "bilibiliys",
       "name": "影视｜ 🅱‍哔哩┃影视🅱‍",
       "type": 3,
@@ -1550,24 +1438,6 @@
       },
       "ext": {
         "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
-      },
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "biliych",
-      "name": "影视｜ 🅱‍哔哩┃歌曲🅱‍",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
       },
       "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
     },
@@ -1640,24 +1510,6 @@
       "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
     },
     {
-      "key": "emby",
-      "name": "影视｜🀄️emby┃4K🀄️",
-      "type": 3,
-      "api": "csp_EmbyGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://nos.netease.com/ysf/657103b89c5c7dda0a68a2517ef92464.jar;md5;a4410b3a6d9eb221f4694bd46873b829"
-    },
-    {
-      "key": "魔都资源",
-      "name": "动漫｜🤣魔都┃动漫",
-      "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "漫国动漫",
       "name": "动漫｜🤣漫国丨动漫",
       "type": 3,
@@ -1669,22 +1521,6 @@
         "parsesKey": "aassddwwxxllsx1x"
       },
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/16/b58f0a7ed0f173a298d80efd0bcfc479.jpg;md5;e811a43be20b5b1ddf568e16b56d8bea"
-    },
-    {
-      "key": "WexDm84",
-      "name": "动漫｜🤡巴士┃动漫🤡",
-      "type": 3,
-      "api": "csp_WexYingGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexYsj",
-      "name": "动漫｜🤡异界┃动漫🤡",
-      "type": 3,
-      "api": "csp_WexYsjGuard",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "Anime1",
